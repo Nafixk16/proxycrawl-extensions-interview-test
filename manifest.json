@@ -2,6 +2,7 @@
   "manifest_version": 2,
   "version": "1.1",
   "name": "Chrome Extension",
+  "options_page": "templates/options.html",
   "browser_action": {
     "default_popup": "templates/popup.html",
     "default_icon": "img/tab_icon32.png"

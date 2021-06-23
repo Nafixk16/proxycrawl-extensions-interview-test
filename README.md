@@ -13,7 +13,7 @@ Welcome to ProxyCrawl Extensions test, if you haven't applied for a job offer ye
 
 Create a simple Chrome extension using HTML, CSS (SCSS is valid) and javascript.
 
-The extension should have a simple form where you add a ProxyCrawl token and an amazon.com product url and then when submitting, it displays the Amazon product information.
+The extension should have a simple form where you add a token and an amazon.com product url and then when submitting, it displays the Amazon product information.
 
 You are free to showcase your skills. There are no limitations on how the exercise should be done. Please try to write HTML, CSS and javascript equally so we can evaluate your skills.
 

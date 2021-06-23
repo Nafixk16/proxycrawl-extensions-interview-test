@@ -9,9 +9,13 @@
     <div class="brand-logo"></div>
     <div class="brand-title">Amazon</div>
     <div class="inputs">
-      <form>
+     
+      <form id="form">
+        <label>ADD TOKEN</label>
+        <input id="token" type="text" placeholder="ExA-************_*****" required />
         <label>ADD URL</label>
-        <input type="email" placeholder="http://***" required />
+        <input id="url" type="text" placeholder="http://***" required />
+        <div id="loader" class="loader"></div>
         <button type="submit">Submit</button>
       </form>
     </div>
